@@ -56,7 +56,12 @@ function App() {
     setOutput(result.toFixed(2)); 
   }
 
+useEffect(() => {
+  if (input){
 
+  convert()}
+  
+}, [from, to])
   function flip() {
     const temp = from;
     setFrom(to);
