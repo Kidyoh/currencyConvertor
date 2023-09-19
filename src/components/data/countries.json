@@ -1,0 +1,1237 @@
+[
+  {
+    "flag": "flags/Palestine.png",
+    "currency": "EGP",
+    "name": "Palestine"
+  },
+  {
+    "flag": "flags/Kuwait.png",
+    "currency": "KWD",
+    "name": "Kuwait"
+  },
+  {
+    "flag": "flags/Guinea.png",
+    "currency": "GNF",
+    "name": "Guinea"
+  },
+  {
+    "flag": "flags/Tokelau.png",
+    "currency": "NZD",
+    "name": "Tokelau"
+  },
+  {
+    "flag": "src/components/data/flags/Afghanistan.png",
+    "currency": "AFN",
+    "name": "Afghanistan"
+  },
+  {
+    "flag": "flags/British Virgin Islands.png",
+    "currency": "USD",
+    "name": "British Virgin Islands"
+  },
+  {
+    "flag": "flags/Canada.png",
+    "currency": "CAD",
+    "name": "Canada"
+  },
+  {
+    "flag": "flags/Micronesia.png",
+    "currency": "USD",
+    "name": "Micronesia"
+  },
+  {
+    "flag": "flags/Panama.png",
+    "currency": "PAB",
+    "name": "Panama"
+  },
+  {
+    "flag": "flags/Namibia.png",
+    "currency": "NAD",
+    "name": "Namibia"
+  },
+  {
+    "flag": "flags/Curaçao.png",
+    "currency": "ANG",
+    "name": "Curaçao"
+  },
+  {
+    "flag": "flags/Burundi.png",
+    "currency": "BIF",
+    "name": "Burundi"
+  },
+  {
+    "flag": "flags/Bulgaria.png",
+    "currency": "BGN",
+    "name": "Bulgaria"
+  },
+  {
+    "flag": "flags/Costa Rica.png",
+    "currency": "CRC",
+    "name": "Costa Rica"
+  },
+  {
+    "flag": "flags/Cocos (Keeling) Islands.png",
+    "currency": "AUD",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "flag": "flags/Ethiopia.png",
+    "currency": "ETB",
+    "name": "Ethiopia"
+  },
+  {
+    "flag": "flags/Jordan.png",
+    "currency": "JOD",
+    "name": "Jordan"
+  },
+  {
+    "flag": "flags/Solomon Islands.png",
+    "currency": "SBD",
+    "name": "Solomon Islands"
+  },
+  {
+    "flag": "flags/Tanzania.png",
+    "currency": "TZS",
+    "name": "Tanzania"
+  },
+  {
+    "flag": "flags/Papua New Guinea.png",
+    "currency": "PGK",
+    "name": "Papua New Guinea"
+  },
+  {
+    "flag": "flags/Latvia.png",
+    "currency": "EUR",
+    "name": "Latvia"
+  },
+  {
+    "flag": "flags/Saint Lucia.png",
+    "currency": "XCD",
+    "name": "Saint Lucia"
+  },
+  {
+    "flag": "flags/Norway.png",
+    "currency": "NOK",
+    "name": "Norway"
+  },
+  {
+    "flag": "flags/Algeria.png",
+    "currency": "DZD",
+    "name": "Algeria"
+  },
+  {
+    "flag": "flags/Hong Kong.png",
+    "currency": "HKD",
+    "name": "Hong Kong"
+  },
+  {
+    "flag": "flags/Malta.png",
+    "currency": "EUR",
+    "name": "Malta"
+  },
+  {
+    "flag": "flags/Botswana.png",
+    "currency": "BWP",
+    "name": "Botswana"
+  },
+  {
+    "flag": "flags/Cayman Islands.png",
+    "currency": "KYD",
+    "name": "Cayman Islands"
+  },
+  {
+    "flag": "flags/Pitcairn Islands.png",
+    "currency": "NZD",
+    "name": "Pitcairn Islands"
+  },
+  {
+    "flag": "flags/Iran.png",
+    "currency": "IRR",
+    "name": "Iran"
+  },
+  {
+    "flag": "flags/Eswatini.png",
+    "currency": "SZL",
+    "name": "Eswatini"
+  },
+  {
+    "flag": "flags/Bangladesh.png",
+    "currency": "BDT",
+    "name": "Bangladesh"
+  },
+  {
+    "flag": "flags/Gabon.png",
+    "currency": "XAF",
+    "name": "Gabon"
+  },
+  {
+    "flag": "flags/Nigeria.png",
+    "currency": "NGN",
+    "name": "Nigeria"
+  },
+  {
+    "flag": "flags/Bosnia and Herzegovina.png",
+    "currency": "BAM",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "flag": "flags/Guernsey.png",
+    "currency": "GBP",
+    "name": "Guernsey"
+  },
+  {
+    "flag": "flags/Kyrgyzstan.png",
+    "currency": "KGS",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "flag": "flags/DR Congo.png",
+    "currency": "CDF",
+    "name": "DR Congo"
+  },
+  {
+    "flag": "flags/Macau.png",
+    "currency": "MOP",
+    "name": "Macau"
+  },
+  {
+    "flag": "flags/Kosovo.png",
+    "currency": "EUR",
+    "name": "Kosovo"
+  },
+  {
+    "flag": "flags/Philippines.png",
+    "currency": "PHP",
+    "name": "Philippines"
+  },
+  {
+    "flag": "flags/Greece.png",
+    "currency": "EUR",
+    "name": "Greece"
+  },
+  {
+    "flag": "flags/Ghana.png",
+    "currency": "GHS",
+    "name": "Ghana"
+  },
+  {
+    "flag": "flags/Netherlands.png",
+    "currency": "EUR",
+    "name": "Netherlands"
+  },
+  {
+    "flag": "flags/Djibouti.png",
+    "currency": "DJF",
+    "name": "Djibouti"
+  },
+  {
+    "flag": "flags/Lithuania.png",
+    "currency": "EUR",
+    "name": "Lithuania"
+  },
+  {
+    "flag": "flags/Indonesia.png",
+    "currency": "IDR",
+    "name": "Indonesia"
+  },
+  {
+    "flag": "flags/Togo.png",
+    "currency": "XOF",
+    "name": "Togo"
+  },
+  {
+    "flag": "flags/Malawi.png",
+    "currency": "MWK",
+    "name": "Malawi"
+  },
+  {
+    "flag": "flags/Bolivia.png",
+    "currency": "BOB",
+    "name": "Bolivia"
+  },
+  {
+    "flag": "flags/Denmark.png",
+    "currency": "DKK",
+    "name": "Denmark"
+  },
+  {
+    "flag": "flags/Kazakhstan.png",
+    "currency": "KZT",
+    "name": "Kazakhstan"
+  },
+  {
+    "flag": "flags/Honduras.png",
+    "currency": "HNL",
+    "name": "Honduras"
+  },
+  {
+    "flag": "flags/Nicaragua.png",
+    "currency": "NIO",
+    "name": "Nicaragua"
+  },
+  {
+    "flag": "flags/Caribbean Netherlands.png",
+    "currency": "USD",
+    "name": "Caribbean Netherlands"
+  },
+  {
+    "flag": "flags/Zimbabwe.png",
+    "currency": "ZWL",
+    "name": "Zimbabwe"
+  },
+  {
+    "flag": "flags/Argentina.png",
+    "currency": "ARS",
+    "name": "Argentina"
+  },
+  {
+    "flag": "flags/Saint Vincent and the Grenadines.png",
+    "currency": "XCD",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "flag": "flags/Gambia.png",
+    "currency": "GMD",
+    "name": "Gambia"
+  },
+  {
+    "flag": "flags/Sudan.png",
+    "currency": "SDG",
+    "name": "Sudan"
+  },
+  {
+    "flag": "flags/Antigua and Barbuda.png",
+    "currency": "XCD",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "flag": "flags/Myanmar.png",
+    "currency": "MMK",
+    "name": "Myanmar"
+  },
+  {
+    "flag": "flags/Finland.png",
+    "currency": "EUR",
+    "name": "Finland"
+  },
+  {
+    "flag": "flags/Saint Martin.png",
+    "currency": "EUR",
+    "name": "Saint Martin"
+  },
+  {
+    "flag": "flags/Chile.png",
+    "currency": "CLP",
+    "name": "Chile"
+  },
+  {
+    "flag": "flags/Russia.png",
+    "currency": "RUB",
+    "name": "Russia"
+  },
+  {
+    "flag": "flags/Timor-Leste.png",
+    "currency": "USD",
+    "name": "Timor-Leste"
+  },
+  {
+    "flag": "flags/Fiji.png",
+    "currency": "FJD",
+    "name": "Fiji"
+  },
+  {
+    "flag": "flags/Cambodia.png",
+    "currency": "KHR",
+    "name": "Cambodia"
+  },
+  {
+    "flag": "flags/Venezuela.png",
+    "currency": "VES",
+    "name": "Venezuela"
+  },
+  {
+    "flag": "flags/United Arab Emirates.png",
+    "currency": "AED",
+    "name": "United Arab Emirates"
+  },
+  {
+    "flag": "flags/Switzerland.png",
+    "currency": "CHF",
+    "name": "Switzerland"
+  },
+  {
+    "flag": "flags/Puerto Rico.png",
+    "currency": "USD",
+    "name": "Puerto Rico"
+  },
+  {
+    "flag": "flags/France.png",
+    "currency": "EUR",
+    "name": "France"
+  },
+  {
+    "flag": "flags/Saint Kitts and Nevis.png",
+    "currency": "XCD",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "flag": "flags/Cyprus.png",
+    "currency": "EUR",
+    "name": "Cyprus"
+  },
+  {
+    "flag": "flags/Austria.png",
+    "currency": "EUR",
+    "name": "Austria"
+  },
+  {
+    "flag": "flags/El Salvador.png",
+    "currency": "USD",
+    "name": "El Salvador"
+  },
+  {
+    "flag": "flags/Syria.png",
+    "currency": "SYP",
+    "name": "Syria"
+  },
+  {
+    "flag": "flags/Croatia.png",
+    "currency": "EUR",
+    "name": "Croatia"
+  },
+  {
+    "flag": "flags/Guadeloupe.png",
+    "currency": "EUR",
+    "name": "Guadeloupe"
+  },
+  {
+    "flag": "flags/Kenya.png",
+    "currency": "KES",
+    "name": "Kenya"
+  },
+  {
+    "flag": "flags/Kiribati.png",
+    "currency": "AUD",
+    "name": "Kiribati"
+  },
+  {
+    "flag": "flags/Martinique.png",
+    "currency": "EUR",
+    "name": "Martinique"
+  },
+  {
+    "flag": "flags/Saint Pierre and Miquelon.png",
+    "currency": "EUR",
+    "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "flag": "flags/Slovakia.png",
+    "currency": "EUR",
+    "name": "Slovakia"
+  },
+  {
+    "flag": "flags/Saint Barthélemy.png",
+    "currency": "EUR",
+    "name": "Saint Barthélemy"
+  },
+  {
+    "flag": "flags/Estonia.png",
+    "currency": "EUR",
+    "name": "Estonia"
+  },
+  {
+    "flag": "flags/Guyana.png",
+    "currency": "GYD",
+    "name": "Guyana"
+  },
+  {
+    "flag": "flags/Rwanda.png",
+    "currency": "RWF",
+    "name": "Rwanda"
+  },
+  {
+    "flag": "flags/Burkina Faso.png",
+    "currency": "XOF",
+    "name": "Burkina Faso"
+  },
+  {
+    "flag": "flags/Italy.png",
+    "currency": "EUR",
+    "name": "Italy"
+  },
+  {
+    "flag": "flags/Cook Islands.png",
+    "currency": "CKD",
+    "name": "Cook Islands"
+  },
+  {
+    "flag": "flags/United Kingdom.png",
+    "currency": "GBP",
+    "name": "United Kingdom"
+  },
+  {
+    "flag": "flags/American Samoa.png",
+    "currency": "USD",
+    "name": "American Samoa"
+  },
+  {
+    "flag": "flags/Uruguay.png",
+    "currency": "UYU",
+    "name": "Uruguay"
+  },
+  {
+    "flag": "flags/Eritrea.png",
+    "currency": "ERN",
+    "name": "Eritrea"
+  },
+  {
+    "flag": "flags/Madagascar.png",
+    "currency": "MGA",
+    "name": "Madagascar"
+  },
+  {
+    "flag": "flags/Suriname.png",
+    "currency": "SRD",
+    "name": "Suriname"
+  },
+  {
+    "flag": "flags/Equatorial Guinea.png",
+    "currency": "XAF",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "flag": "flags/Greenland.png",
+    "currency": "DKK",
+    "name": "Greenland"
+  },
+  {
+    "flag": "flags/Jamaica.png",
+    "currency": "JMD",
+    "name": "Jamaica"
+  },
+  {
+    "flag": "flags/Svalbard and Jan Mayen.png",
+    "currency": "NOK",
+    "name": "Svalbard and Jan Mayen"
+  },
+  {
+    "flag": "flags/Tunisia.png",
+    "currency": "TND",
+    "name": "Tunisia"
+  },
+  {
+    "flag": "flags/Bermuda.png",
+    "currency": "BMD",
+    "name": "Bermuda"
+  },
+  {
+    "flag": "flags/Ecuador.png",
+    "currency": "USD",
+    "name": "Ecuador"
+  },
+  {
+    "flag": "flags/Somalia.png",
+    "currency": "SOS",
+    "name": "Somalia"
+  },
+  {
+    "flag": "flags/Bahrain.png",
+    "currency": "BHD",
+    "name": "Bahrain"
+  },
+  {
+    "flag": "flags/Vietnam.png",
+    "currency": "VND",
+    "name": "Vietnam"
+  },
+  {
+    "flag": "flags/Gibraltar.png",
+    "currency": "GIP",
+    "name": "Gibraltar"
+  },
+  {
+    "flag": "flags/Guam.png",
+    "currency": "USD",
+    "name": "Guam"
+  },
+  {
+    "flag": "flags/Libya.png",
+    "currency": "LYD",
+    "name": "Libya"
+  },
+  {
+    "flag": "flags/Chad.png",
+    "currency": "XAF",
+    "name": "Chad"
+  },
+  {
+    "flag": "flags/South Korea.png",
+    "currency": "KRW",
+    "name": "South Korea"
+  },
+  {
+    "flag": "flags/Northern Mariana Islands.png",
+    "currency": "USD",
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "flag": "flags/Palau.png",
+    "currency": "USD",
+    "name": "Palau"
+  },
+  {
+    "flag": "flags/Liechtenstein.png",
+    "currency": "CHF",
+    "name": "Liechtenstein"
+  },
+  {
+    "flag": "flags/French Southern and Antarctic Lands.png",
+    "currency": "EUR",
+    "name": "French Southern and Antarctic Lands"
+  },
+  {
+    "flag": "flags/Mexico.png",
+    "currency": "MXN",
+    "name": "Mexico"
+  },
+  {
+    "flag": "flags/Australia.png",
+    "currency": "AUD",
+    "name": "Australia"
+  },
+  {
+    "flag": "flags/Czechia.png",
+    "currency": "CZK",
+    "name": "Czechia"
+  },
+  {
+    "flag": "flags/Samoa.png",
+    "currency": "WST",
+    "name": "Samoa"
+  },
+  {
+    "flag": "flags/Guinea-Bissau.png",
+    "currency": "XOF",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "flag": "flags/Turkey.png",
+    "currency": "TRY",
+    "name": "Turkey"
+  },
+  {
+    "flag": "flags/Zambia.png",
+    "currency": "ZMW",
+    "name": "Zambia"
+  },
+  {
+    "flag": "flags/Azerbaijan.png",
+    "currency": "AZN",
+    "name": "Azerbaijan"
+  },
+  {
+    "flag": "flags/South Georgia.png",
+    "currency": "SHP",
+    "name": "South Georgia"
+  },
+  {
+    "flag": "flags/Wallis and Futuna.png",
+    "currency": "XPF",
+    "name": "Wallis and Futuna"
+  },
+  {
+    "flag": "flags/Iraq.png",
+    "currency": "IQD",
+    "name": "Iraq"
+  },
+  {
+    "flag": "flags/Sri Lanka.png",
+    "currency": "LKR",
+    "name": "Sri Lanka"
+  },
+  {
+    "flag": "flags/Maldives.png",
+    "currency": "MVR",
+    "name": "Maldives"
+  },
+  {
+    "flag": "flags/Seychelles.png",
+    "currency": "SCR",
+    "name": "Seychelles"
+  },
+  {
+    "flag": "flags/Niger.png",
+    "currency": "XOF",
+    "name": "Niger"
+  },
+  {
+    "flag": "flags/United States Minor Outlying Islands.png",
+    "currency": "USD",
+    "name": "United States Minor Outlying Islands"
+  },
+  {
+    "flag": "flags/Grenada.png",
+    "currency": "XCD",
+    "name": "Grenada"
+  },
+  {
+    "flag": "flags/Tajikistan.png",
+    "currency": "TJS",
+    "name": "Tajikistan"
+  },
+  {
+    "flag": "flags/Lesotho.png",
+    "currency": "LSL",
+    "name": "Lesotho"
+  },
+  {
+    "flag": "flags/Montserrat.png",
+    "currency": "XCD",
+    "name": "Montserrat"
+  },
+  {
+    "flag": "flags/Western Sahara.png",
+    "currency": "DZD",
+    "name": "Western Sahara"
+  },
+  {
+    "flag": "flags/Moldova.png",
+    "currency": "MDL",
+    "name": "Moldova"
+  },
+  {
+    "flag": "flags/Paraguay.png",
+    "currency": "PYG",
+    "name": "Paraguay"
+  },
+  {
+    "flag": "flags/Barbados.png",
+    "currency": "BBD",
+    "name": "Barbados"
+  },
+  {
+    "flag": "flags/Guatemala.png",
+    "currency": "GTQ",
+    "name": "Guatemala"
+  },
+  {
+    "flag": "flags/Benin.png",
+    "currency": "XOF",
+    "name": "Benin"
+  },
+  {
+    "flag": "flags/Trinidad and Tobago.png",
+    "currency": "TTD",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "flag": "flags/Japan.png",
+    "currency": "JPY",
+    "name": "Japan"
+  },
+  {
+    "flag": "flags/Egypt.png",
+    "currency": "EGP",
+    "name": "Egypt"
+  },
+  {
+    "flag": "flags/Armenia.png",
+    "currency": "AMD",
+    "name": "Armenia"
+  },
+  {
+    "flag": "flags/Peru.png",
+    "currency": "PEN",
+    "name": "Peru"
+  },
+  {
+    "flag": "flags/Ireland.png",
+    "currency": "EUR",
+    "name": "Ireland"
+  },
+  {
+    "flag": "flags/Tuvalu.png",
+    "currency": "AUD",
+    "name": "Tuvalu"
+  },
+  {
+    "flag": "flags/Belarus.png",
+    "currency": "BYN",
+    "name": "Belarus"
+  },
+  {
+    "flag": "flags/Uzbekistan.png",
+    "currency": "UZS",
+    "name": "Uzbekistan"
+  },
+  {
+    "flag": "flags/Pakistan.png",
+    "currency": "PKR",
+    "name": "Pakistan"
+  },
+  {
+    "flag": "flags/Christmas Island.png",
+    "currency": "AUD",
+    "name": "Christmas Island"
+  },
+  {
+    "flag": "flags/Portugal.png",
+    "currency": "EUR",
+    "name": "Portugal"
+  },
+  {
+    "flag": "flags/Nepal.png",
+    "currency": "NPR",
+    "name": "Nepal"
+  },
+  {
+    "flag": "flags/Ivory Coast.png",
+    "currency": "XOF",
+    "name": "Ivory Coast"
+  },
+  {
+    "flag": "flags/India.png",
+    "currency": "INR",
+    "name": "India"
+  },
+  {
+    "flag": "flags/Morocco.png",
+    "currency": "MAD",
+    "name": "Morocco"
+  },
+  {
+    "flag": "flags/Poland.png",
+    "currency": "PLN",
+    "name": "Poland"
+  },
+  {
+    "flag": "flags/Angola.png",
+    "currency": "AOA",
+    "name": "Angola"
+  },
+  {
+    "flag": "flags/Belize.png",
+    "currency": "BZD",
+    "name": "Belize"
+  },
+  {
+    "flag": "flags/Saint Helena, Ascension and Tristan da Cunha.png",
+    "currency": "GBP",
+    "name": "Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "flag": "flags/Germany.png",
+    "currency": "EUR",
+    "name": "Germany"
+  },
+  {
+    "flag": "flags/Uganda.png",
+    "currency": "UGX",
+    "name": "Uganda"
+  },
+  {
+    "flag": "flags/Qatar.png",
+    "currency": "QAR",
+    "name": "Qatar"
+  },
+  {
+    "flag": "flags/Sint Maarten.png",
+    "currency": "ANG",
+    "name": "Sint Maarten"
+  },
+  {
+    "flag": "flags/South Sudan.png",
+    "currency": "SSP",
+    "name": "South Sudan"
+  },
+  {
+    "flag": "flags/Falkland Islands.png",
+    "currency": "FKP",
+    "name": "Falkland Islands"
+  },
+  {
+    "flag": "flags/Yemen.png",
+    "currency": "YER",
+    "name": "Yemen"
+  },
+  {
+    "flag": "flags/Israel.png",
+    "currency": "ILS",
+    "name": "Israel"
+  },
+  {
+    "flag": "flags/Brazil.png",
+    "currency": "BRL",
+    "name": "Brazil"
+  },
+  {
+    "flag": "flags/Liberia.png",
+    "currency": "LRD",
+    "name": "Liberia"
+  },
+  {
+    "flag": "flags/Cape Verde.png",
+    "currency": "CVE",
+    "name": "Cape Verde"
+  },
+  {
+    "flag": "flags/Norfolk Island.png",
+    "currency": "AUD",
+    "name": "Norfolk Island"
+  },
+  {
+    "flag": "flags/Mozambique.png",
+    "currency": "MZN",
+    "name": "Mozambique"
+  },
+  {
+    "flag": "flags/Slovenia.png",
+    "currency": "EUR",
+    "name": "Slovenia"
+  },
+  {
+    "flag": "flags/Nauru.png",
+    "currency": "AUD",
+    "name": "Nauru"
+  },
+  {
+    "flag": "flags/Ukraine.png",
+    "currency": "UAH",
+    "name": "Ukraine"
+  },
+  {
+    "flag": "flags/Republic of the Congo.png",
+    "currency": "XAF",
+    "name": "Republic of the Congo"
+  },
+  {
+    "flag": "flags/Laos.png",
+    "currency": "LAK",
+    "name": "Laos"
+  },
+  {
+    "flag": "flags/Sweden.png",
+    "currency": "SEK",
+    "name": "Sweden"
+  },
+  {
+    "flag": "flags/Aruba.png",
+    "currency": "AWG",
+    "name": "Aruba"
+  },
+  {
+    "flag": "flags/Senegal.png",
+    "currency": "XOF",
+    "name": "Senegal"
+  },
+  {
+    "flag": "flags/Oman.png",
+    "currency": "OMR",
+    "name": "Oman"
+  },
+  {
+    "flag": "flags/Mauritius.png",
+    "currency": "MUR",
+    "name": "Mauritius"
+  },
+  {
+    "flag": "flags/Dominica.png",
+    "currency": "XCD",
+    "name": "Dominica"
+  },
+  {
+    "flag": "flags/Niue.png",
+    "currency": "NZD",
+    "name": "Niue"
+  },
+  {
+    "flag": "flags/Mongolia.png",
+    "currency": "MNT",
+    "name": "Mongolia"
+  },
+  {
+    "flag": "flags/Hungary.png",
+    "currency": "HUF",
+    "name": "Hungary"
+  },
+  {
+    "flag": "flags/San Marino.png",
+    "currency": "EUR",
+    "name": "San Marino"
+  },
+  {
+    "flag": "flags/Haiti.png",
+    "currency": "HTG",
+    "name": "Haiti"
+  },
+  {
+    "flag": "flags/Bhutan.png",
+    "currency": "BTN",
+    "name": "Bhutan"
+  },
+  {
+    "flag": "flags/Lebanon.png",
+    "currency": "LBP",
+    "name": "Lebanon"
+  },
+  {
+    "flag": "flags/Brunei.png",
+    "currency": "BND",
+    "name": "Brunei"
+  },
+  {
+    "flag": "flags/French Polynesia.png",
+    "currency": "XPF",
+    "name": "French Polynesia"
+  },
+  {
+    "flag": "flags/Cuba.png",
+    "currency": "CUC",
+    "name": "Cuba"
+  },
+  {
+    "flag": "flags/United States.png",
+    "currency": "USD",
+    "name": "United States"
+  },
+  {
+    "flag": "flags/French Guiana.png",
+    "currency": "EUR",
+    "name": "French Guiana"
+  },
+  {
+    "flag": "flags/Mauritania.png",
+    "currency": "MRU",
+    "name": "Mauritania"
+  },
+  {
+    "flag": "flags/Turkmenistan.png",
+    "currency": "TMT",
+    "name": "Turkmenistan"
+  },
+  {
+    "flag": "flags/Dominican Republic.png",
+    "currency": "DOP",
+    "name": "Dominican Republic"
+  },
+  {
+    "flag": "flags/Isle of Man.png",
+    "currency": "GBP",
+    "name": "Isle of Man"
+  },
+  {
+    "flag": "flags/Tonga.png",
+    "currency": "TOP",
+    "name": "Tonga"
+  },
+  {
+    "flag": "flags/Comoros.png",
+    "currency": "KMF",
+    "name": "Comoros"
+  },
+  {
+    "flag": "flags/Saudi Arabia.png",
+    "currency": "SAR",
+    "name": "Saudi Arabia"
+  },
+  {
+    "flag": "flags/New Caledonia.png",
+    "currency": "XPF",
+    "name": "New Caledonia"
+  },
+  {
+    "flag": "flags/Spain.png",
+    "currency": "EUR",
+    "name": "Spain"
+  },
+  {
+    "flag": "flags/Vatican City.png",
+    "currency": "EUR",
+    "name": "Vatican City"
+  },
+  {
+    "flag": "flags/Marshall Islands.png",
+    "currency": "USD",
+    "name": "Marshall Islands"
+  },
+  {
+    "flag": "flags/Georgia.png",
+    "currency": "GEL",
+    "name": "Georgia"
+  },
+  {
+    "flag": "flags/Malaysia.png",
+    "currency": "MYR",
+    "name": "Malaysia"
+  },
+  {
+    "flag": "flags/Cameroon.png",
+    "currency": "XAF",
+    "name": "Cameroon"
+  },
+  {
+    "flag": "flags/Serbia.png",
+    "currency": "RSD",
+    "name": "Serbia"
+  },
+  {
+    "flag": "flags/Taiwan.png",
+    "currency": "TWD",
+    "name": "Taiwan"
+  },
+  {
+    "flag": "flags/South Africa.png",
+    "currency": "ZAR",
+    "name": "South Africa"
+  },
+  {
+    "flag": "flags/Turks and Caicos Islands.png",
+    "currency": "USD",
+    "name": "Turks and Caicos Islands"
+  },
+  {
+    "flag": "flags/Réunion.png",
+    "currency": "EUR",
+    "name": "Réunion"
+  },
+  {
+    "flag": "flags/Albania.png",
+    "currency": "ALL",
+    "name": "Albania"
+  },
+  {
+    "flag": "flags/Singapore.png",
+    "currency": "SGD",
+    "name": "Singapore"
+  },
+  {
+    "flag": "flags/North Korea.png",
+    "currency": "KPW",
+    "name": "North Korea"
+  },
+  {
+    "flag": "flags/Andorra.png",
+    "currency": "EUR",
+    "name": "Andorra"
+  },
+  {
+    "flag": "flags/Monaco.png",
+    "currency": "EUR",
+    "name": "Monaco"
+  },
+  {
+    "flag": "flags/Faroe Islands.png",
+    "currency": "DKK",
+    "name": "Faroe Islands"
+  },
+  {
+    "flag": "flags/Montenegro.png",
+    "currency": "EUR",
+    "name": "Montenegro"
+  },
+  {
+    "flag": "flags/Thailand.png",
+    "currency": "THB",
+    "name": "Thailand"
+  },
+  {
+    "flag": "flags/Mali.png",
+    "currency": "XOF",
+    "name": "Mali"
+  },
+  {
+    "flag": "flags/Mayotte.png",
+    "currency": "EUR",
+    "name": "Mayotte"
+  },
+  {
+    "flag": "flags/Belgium.png",
+    "currency": "EUR",
+    "name": "Belgium"
+  },
+  {
+    "flag": "flags/Bahamas.png",
+    "currency": "BSD",
+    "name": "Bahamas"
+  },
+  {
+    "flag": "flags/Iceland.png",
+    "currency": "ISK",
+    "name": "Iceland"
+  },
+  {
+    "flag": "flags/Colombia.png",
+    "currency": "COP",
+    "name": "Colombia"
+  },
+  {
+    "flag": "flags/Sierra Leone.png",
+    "currency": "SLL",
+    "name": "Sierra Leone"
+  },
+  {
+    "flag": "flags/British Indian Ocean Territory.png",
+    "currency": "USD",
+    "name": "British Indian Ocean Territory"
+  },
+  {
+    "flag": "flags/Central African Republic.png",
+    "currency": "XAF",
+    "name": "Central African Republic"
+  },
+  {
+    "flag": "flags/Vanuatu.png",
+    "currency": "VUV",
+    "name": "Vanuatu"
+  },
+  {
+    "flag": "flags/Anguilla.png",
+    "currency": "XCD",
+    "name": "Anguilla"
+  },
+  {
+    "flag": "flags/Romania.png",
+    "currency": "RON",
+    "name": "Romania"
+  },
+  {
+    "flag": "flags/United States Virgin Islands.png",
+    "currency": "USD",
+    "name": "United States Virgin Islands"
+  },
+  {
+    "flag": "flags/Luxembourg.png",
+    "currency": "EUR",
+    "name": "Luxembourg"
+  },
+  {
+    "flag": "flags/China.png",
+    "currency": "CNY",
+    "name": "China"
+  },
+  {
+    "flag": "flags/Åland Islands.png",
+    "currency": "EUR",
+    "name": "Åland Islands"
+  },
+  {
+    "flag": "flags/Jersey.png",
+    "currency": "GBP",
+    "name": "Jersey"
+  },
+  {
+    "flag": "flags/New Zealand.png",
+    "currency": "NZD",
+    "name": "New Zealand"
+  },
+  {
+    "flag": "flags/São Tomé and Príncipe.png",
+    "currency": "STN",
+    "name": "São Tomé and Príncipe"
+  },
+  {
+    "flag": "flags/North Macedonia.png",
+    "currency": "MKD",
+    "name": "North Macedonia"
+  }
+]
