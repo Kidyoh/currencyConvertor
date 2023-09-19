@@ -5,18 +5,17 @@ import { CurrencyContext } from '../context/CurrencyContext';
 
 const InputAmount = () => {
 
-  const { firstAmount, setFirstAmount} = useContext(CurrencyContext);
+  const { input, setInput} = useContext(CurrencyContext);
   return (
     <Grid item xs={12} md>
         <TextField
-        value={firstAmount}
-        onChange={e => setFirstAmount(e.target.value)}
-        label="Amount"
-        fullWidth
-        InputProps={{
-            type:"number",
+          onChange={(e) => setInput(e.target.value)}
+          label="Amount"
+          fullWidth
+          InputProps={{
+            type: "number",
             startAdornment: <InputAdornment position="start">$</InputAdornment>,
-        }}
+          }}
         />
     </Grid>
   )

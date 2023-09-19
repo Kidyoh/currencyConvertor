@@ -11,8 +11,8 @@ const CurrencyProvider = ({children}) => {
         setFrom,
         to,
         setTo,
-        firstAmount,
-        setFirstAmount
+        input,
+        setInput
     };
 
   return (

@@ -7,7 +7,6 @@ import SelectCountry from './components/selectCountry';
 import { Box, Container, Grid, Link, TextField, Typography, InputAdornment, Button } from '@mui/material'
 import CompareArrowsIcon from '@mui/icons-material/CompareArrows';
 
-
 function App() {
 
   const [input, setInput] = useState(0);
@@ -40,53 +39,35 @@ function App() {
       })
   }, []);
 
-//function to convert currencies
-function convert() {
-  const fromCurrency = from.split(" ")[0];
-  const toCurrency = to.split(" ")[0];
 
-    // Get rates
+
+  
+  function convert() {
+    const fromCurrency = from.split(" ")[0];
+    const toCurrency = to.split(" ")[0];
+
     const fromRate = exchangeRates.rates[fromCurrency];
     const toRate = exchangeRates.rates[toCurrency];
+    
+    const usdRate = exchangeRates.rates["USD"];
   
-
-  if(!fromRate || !toRate) {
-    alert('Rate not available');
-    return; 
+    const result = (input / fromRate) * (toRate / usdRate);
+  
+    setOutput(result.toFixed(2)); 
   }
 
 
-  //Handle missing rates
-  const baseCurrency = exchangeRates.base;
-  const baseRate = exchangeRates.rates[baseCurrency] || 1;
-
-   // Calculate relative rates
-  const baseToFromRate = baseRate / fromRate;
-  const baseToToRate = baseRate / toRate;
-
-  // Convert input using relative rates
-  const output = input * baseToToRate * baseToFromRate;
-
-  setOutput(output);
-}
-  // Function to switch between two currency
   function flip() {
-    var temp = from;
+    const temp = from;
     setFrom(to);
     setTo(temp);
   }
-
-  useEffect(() => {
-    if (input) {
-      convert();
-    }
-  })
 
   return (
     <Container maxWidth="md" sx={boxStyles}>
       <Typography variant='h5' sx={{ marginBottom: "2rem" }}>Shega Exchange Rates</Typography>
      <Grid container spacing={2}>
-     <Grid item xs={12} md="auto">
+     <Grid item xs={12} md>
         <TextField
           onChange={(e) => setInput(e.target.value)}
           label="Amount"
@@ -96,6 +77,7 @@ function convert() {
             startAdornment: <InputAdornment position="start">$</InputAdornment>,
           }}
         />
+         </Grid>
         <SelectCountry value={from} label="From" onChange={(event, newValue) => setFrom(newValue)} />
         <Grid item xs={12} md="auto">
           <Button onClick={flip} sx={{
@@ -107,17 +89,22 @@ function convert() {
             }} />
           </Button>
         </Grid>
-        <SelectCountry value={to} label="To"/>
-     </Grid>
-        {input ? (
-          <Box sx={{ textAlign: "left", marginTop: "1rem" }}>
+        <SelectCountry value={to} label="To" onChange={(event, newValue) => setTo(newValue)}/>
+        
+      </Grid>
+      <Button onClick={convert} sx={{
+            borderRadius: 1,
+            height: "22%"
+          }} md={{marginTop: "1rem"}}>  
+           Convert
+          </Button>
+      {input ? (
+          <Box sx={{ textAlign: "bottom", marginTop: "1rem" }}>
             <Typography>{input} {from} =</Typography>
-            <Typography variant='h5' sx={{ marginTop: "5px", fontWeight: "bold" }}>{output.toFixed(2)} {to}</Typography>
-            <p>{input + " " + from + " = " + output.toFixed(2) + " " + to}</p>
+            <Typography variant='h5' sx={{ marginTop: "4px", fontWeight: "bold" }}>{output} {to}</Typography>
+            <p>{input + " " + from + " = " + output + " " + to}</p>
           </Box>
         ) : ""}
-      </Grid>
-
 
     </Container>
   );
