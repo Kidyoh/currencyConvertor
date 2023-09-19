@@ -4,7 +4,7 @@ import { Autocomplete, Grid, TextField } from '@mui/material';
 import countriesData from './data/countries.json';
 
 const SelectCountry = (props) => {
-  const { value, setValue, label } = props;
+  const { value, setValue, label, onChange} = props;
 
   const dataFilter = countriesData.filter(item => "currency" in item);
   const dataCountries = dataFilter.map(item => {
@@ -16,7 +16,7 @@ const SelectCountry = (props) => {
       <Autocomplete
         value={value}
         disableClearable
-        onChange={(event, newValue) => setValue(newValue)}
+        onChange={onChange}
         options={ dataCountries}
         renderInput={(params) => <TextField {...params} label={label} />}
       />

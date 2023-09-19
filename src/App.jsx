@@ -41,17 +41,34 @@ function App() {
   }, []);
 
 //function to convert currencies
-  function convert() {
-    const toCurrency = to.split(" ")[0];
-    const rate = exchangeRates.rates[toCurrency];
+function convert() {
+  const fromCurrency = from.split(" ")[0];
+  const toCurrency = to.split(" ")[0];
+
+    // Get rates
+    const fromRate = exchangeRates.rates[fromCurrency];
+    const toRate = exchangeRates.rates[toCurrency];
   
-    if(rate == null) {
-      alert('Rate not available for ' + toCurrency);  
-      return;
-    }
-  
-    setOutput(input * rate);
+
+  if(!fromRate || !toRate) {
+    alert('Rate not available');
+    return; 
   }
+
+
+  //Handle missing rates
+  const baseCurrency = exchangeRates.base;
+  const baseRate = exchangeRates.rates[baseCurrency] || 1;
+
+   // Calculate relative rates
+  const baseToFromRate = baseRate / fromRate;
+  const baseToToRate = baseRate / toRate;
+
+  // Convert input using relative rates
+  const output = input * baseToToRate * baseToFromRate;
+
+  setOutput(output);
+}
   // Function to switch between two currency
   function flip() {
     var temp = from;
@@ -90,7 +107,7 @@ function App() {
             }} />
           </Button>
         </Grid>
-        <SelectCountry value={to} label="To"  />
+        <SelectCountry value={to} label="To"/>
      </Grid>
         {input ? (
           <Box sx={{ textAlign: "left", marginTop: "1rem" }}>
