@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://api.apilayer.com/exchangerates_data/latest?base=ETB"  # Remove the "symbols" parameter
+url = "https://api.apilayer.com/exchangerates_data/latest?base=USD"  # Remove the "symbols" parameter
 
 payload = {}
 headers = {
@@ -14,7 +14,7 @@ status_code = response.status_code
 result = response.json()  # Parse the response as JSON
 
 if status_code == 200:
-    base_currency = "ETB"
+    base_currency = "USD"
     currencies = result.get("rates", {})  # Get the rates dictionary
 
     # Create a dictionary to store the exchange rates
