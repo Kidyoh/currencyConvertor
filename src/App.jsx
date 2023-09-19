@@ -32,22 +32,26 @@ function App() {
   useEffect(() => {
     Axios.get(
       `src/components/data/exchange_rates.json`)
-      .then((res) => {
-        setExchangeRates(res.data);
-        console.log(res.data);
+      .then(res => {
+        setExchangeRates(res.data) 
       })
-      .catch((error) => {
-        console.error("Error loading exchange rates:", error);
-      });
+      .catch(err => {
+        console.error(err)
+      })
   }, []);
 
-
-  // Function to convert the currency
+//function to convert currencies
   function convert() {
-    const rate = exchangeRates.rates[to];
+    const toCurrency = to.split(" ")[0];
+    const rate = exchangeRates.rates[toCurrency];
+  
+    if(rate == null) {
+      alert('Rate not available for ' + toCurrency);  
+      return;
+    }
+  
     setOutput(input * rate);
   }
-
   // Function to switch between two currency
   function flip() {
     var temp = from;
