@@ -30,7 +30,7 @@ function App() {
   // Calling the api whenever the dependency changes
   useEffect(() => {
     Axios.get(
-      `src/components/data/exchange_rates.json`)
+      `../exchange_rates.json`)
       .then(res => {
         setExchangeRates(res.data) 
       })
